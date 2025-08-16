@@ -2,9 +2,9 @@
 
 Mini Compiler 是一个轻量级的编译器项目，支持将简单的自定义语言（.mini 文件）编译为不同平台的可执行文件、动态库或静态库，也可直接运行程序。目前支持 Linux、x86 Windows 和 x86_64 Windows 平台。
 
-
-
 未来会有其他语言的版本，尽情期待。
+
+目前有python语言版本[ProgrammerLeaf/mini-compile-py: 一个用python语言写的微型编译器](https://github.com/ProgrammerLeaf/mini-compile-py)
 
 ## 支持平台
 
